@@ -1,0 +1,45 @@
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe.config
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csprojResolveAssemblyReference.cache
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Form1.resources
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Properties.Resources.resources
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csproj.GenerateResource.Cache
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.pdb
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.exe
+E:\Executaveis Liberados\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.pdb
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe.config
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.exe
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.pdb
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.pdb
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csprojResolveAssemblyReference.cache
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Form1.resources
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Properties.Resources.resources
+E:\Facul Neto\Urna_Eleitoral\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csproj.GenerateResource.Cache
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe.config
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.exe
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.pdb
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.pdb
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Form1.resources
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Properties.Resources.resources
+E:\executaveis liberados\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe.config
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.exe
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.pdb
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.pdb
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csprojResolveAssemblyReference.cache
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Form1.resources
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Properties.Resources.resources
+C:\Users\dell-e\Downloads\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe.config
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.exe
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.pdb
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.exe
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\bin\Debug\Urna_Eleitoral.pdb
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csprojResolveAssemblyReference.cache
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Form1.resources
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.Properties.Resources.resources
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Urna_Eleitoral - Copia\Urna_Eleitoral\obj\Debug\Urna_Eleitoral.csproj.GenerateResource.Cache
